@@ -1,0 +1,12 @@
+# tex関連のファイル
+*.bbl
+*.blg
+*.toc
+*.aux
+*.dvi
+*.fdb_latexmk
+*.synctex.gz
+*.fls
+*.log
+*.lof
+*.lot
